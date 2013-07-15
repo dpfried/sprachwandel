@@ -53,3 +53,11 @@ Das Niebelungenlied:
 ## *zwischen*
 
 *zwëne* (althochdeutsch, "zwei") -> *zwisk* ("ein Paar") -> *in zwiskén* ("zwischen ein Paar") -> *inzwischen* ->  *zwischen*
+
+## *begreifen*
+
+*grifan* (althochdeutsch, "mit den Händen nehmen") -> *bigrifan* (mittelhochdeutsch, "mit dem Kopf nehmen") -> *begreifen* ("verstehen")
+
+*grifan* -> *gripe* (altenglisch) -> *grip* (englisch)
+
+## 
