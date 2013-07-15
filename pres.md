@@ -1,41 +1,35 @@
-# Deutsch im Wandel
-## Daniel Fried
+## Deutsch im Wandel
 
-# Wichtigen Perioden
+### Daniel Fried
+
+## Wichtigen Perioden
 - 750-1050: Althochdeutsch
 - 1050-1350: Mittelhochdeutsch
 - 1350-1650: Früneuhochdeutsch
 - 1650- : Neuhochdeutsch
 
-# Wichtigen Perioden
-- 750-1050: Althochdeutsch
+## 750-1050: Althochdeutsch
 
-*Fater unseer, thu pist in himile, uuihi namun dinan* - Herrengebet, 8. Jahrhundert
+Herrengebet: 
 
-*Vater unser im Himmel, geheiligt werde dein Name* - jetzt
+*Fater unseer, thu pist in himile, uuihi namun dinan*, 8. Jahrhundert
 
-- 1050-1350: Mittelhochdeutsch
-- 1350-1650: Früneuhochdeutsch
-- 1650- : Neuhochdeutsch
+*Vater unser im Himmel, geheiligt werde dein Name*, jetzt
 
-# Wichtigen Perioden
-- 750-1050: Althochdeutsch
-- 1050-1350: Mittelhochdeutsch
+## 1050-1350: Mittelhochdeutsch
 
-*Uns ist in alten mæren wunders vil geseit* - Das Niebelungenlied, 13. Jahrhundert
+Das Niebelungenlied:
+
+*Uns ist in alten mæren wunders vil geseit*, 13. Jahrhundert
 
 *Uns wird in alten Erzählungen viel Wunderbares berichtet* - jetzt
 
-- 1350-1650: Früneuhochdeutsch
-- 1650- : Neuhochdeutsch
+## 1350-1650: Früneuhochdeutsch
 
-# Wichtigen Perioden
-- 750-1050: Althochdeutsch
-- 1050-1350: Mittelhochdeutsch
-- 1350-1650: Früneuhochdeutsch
+*Im anfang war das Wort, vnd das wort war bey Gott, vnd Gott war das Wort.*, Luther, 1545
 
-*Im anfang war das Wort, vnd das wort war bey Gott, vnd Gott war das Wort.* - Luther, 1545
+*Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.* - jetzt (Neuhochdeutsch)
 
-- 1650- : Neuhochdeutsch
+## Fallbeispiele
 
-*Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.* - jetzt
+## *Deutsch*

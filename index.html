@@ -15,7 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<link rel="stylesheet" href="css/reveal.min.css">
-		<link rel="stylesheet" href="css/theme/simple.css" id="theme">
+		<link rel="stylesheet" href="css/theme/night.css" id="theme">
 
 		<!-- For syntax highlighting -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -36,14 +36,14 @@
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
-                <section class="level1" id="deutsch-im-wandel">
-                <h1>Deutsch im Wandel</h1>
-                <section class="level2" id="daniel-fried">
-                <h2>Daniel Fried</h2>
+                <section class="level2" id="deutsch-im-wandel">
+                <h2>Deutsch im Wandel</h2>
+                <section class="level3" id="daniel-fried">
+                <h3>Daniel Fried</h3>
                 </section>
                 </section>
-                <section class="level1" id="wichtigen-perioden">
-                <h1>Wichtigen Perioden</h1>
+                <section class="level2" id="wichtigen-perioden">
+                <h2>Wichtigen Perioden</h2>
                 <ul>
                 <li>750-1050: Althochdeutsch</li>
                 <li>1050-1350: Mittelhochdeutsch</li>
@@ -51,44 +51,28 @@
                 <li>1650- : Neuhochdeutsch</li>
                 </ul>
                 </section>
-                <section class="level1" id="wichtigen-perioden-1">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                </ul>
-                <p><em>Fater unseer, thu pist in himile, uuihi namun dinan</em> - Herrengebet, 8. Jahrhundert</p>
-                <p><em>Vater unser im Himmel, geheiligt werde dein Name</em> - jetzt</p>
-                <ul>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
+                <section class="level2" id="althochdeutsch">
+                <h2>750-1050: Althochdeutsch</h2>
+                <p>Herrengebet:</p>
+                <p><em>Fater unseer, thu pist in himile, uuihi namun dinan</em>, 8. Jahrhundert</p>
+                <p><em>Vater unser im Himmel, geheiligt werde dein Name</em>, jetzt</p>
                 </section>
-                <section class="level1" id="wichtigen-perioden-2">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                </ul>
-                <p><em>Uns ist in alten mæren wunders vil geseit</em> - Das Niebelungenlied, 13. Jahrhundert</p>
+                <section class="level2" id="mittelhochdeutsch">
+                <h2>1050-1350: Mittelhochdeutsch</h2>
+                <p>Das Niebelungenlied:</p>
+                <p><em>Uns ist in alten mæren wunders vil geseit</em>, 13. Jahrhundert</p>
                 <p><em>Uns wird in alten Erzählungen viel Wunderbares berichtet</em> - jetzt</p>
-                <ul>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
                 </section>
-                <section class="level1" id="wichtigen-perioden-3">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                </ul>
-                <p><em>Im anfang war das Wort, vnd das wort war bey Gott, vnd Gott war das Wort.</em> - Luther, 1545</p>
-                <ul>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
-                <p><em>Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.</em> - jetzt</p>
+                <section class="level2" id="früneuhochdeutsch">
+                <h2>1350-1650: Früneuhochdeutsch</h2>
+                <p><em>Im anfang war das Wort, vnd das wort war bey Gott, vnd Gott war das Wort.</em>, Luther, 1545</p>
+                <p><em>Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.</em> - jetzt (Neuhochdeutsch)</p>
+                </section>
+                <section class="level2" id="fallbeispiele">
+                <h2>Fallbeispiele</h2>
+                </section>
+                <section class="level2" id="deutsch">
+                <h2><em>Deutsch</em></h2>
                 </section>
 			</div>
 
@@ -107,8 +91,10 @@
 				history: true,
 				center: true,
 
-				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+				// theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				// transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+                theme: 'night',
+                transition: 'none',
 
 				// Optional libraries used to extend on reveal.js
 				dependencies: [
