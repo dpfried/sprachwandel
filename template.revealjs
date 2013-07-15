@@ -36,60 +36,7 @@
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
-                <section class="level1" id="deutsch-im-wandel">
-                <h1>Deutsch im Wandel</h1>
-                <section class="level2" id="daniel-fried">
-                <h2>Daniel Fried</h2>
-                </section>
-                </section>
-                <section class="level1" id="wichtigen-perioden">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
-                </section>
-                <section class="level1" id="wichtigen-perioden-1">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                </ul>
-                <p><em>Fater unseer, thu pist in himile, uuihi namun dinan</em> - Herrengebet, 8. Jahrhundert</p>
-                <p><em>Vater unser im Himmel, geheiligt werde dein Name</em> - jetzt</p>
-                <ul>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
-                </section>
-                <section class="level1" id="wichtigen-perioden-2">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                </ul>
-                <p><em>Uns ist in alten mæren wunders vil geseit</em> - Das Niebelungenlied, 13. Jahrhundert</p>
-                <p><em>Uns wird in alten Erzählungen viel Wunderbares berichtet</em> - jetzt</p>
-                <ul>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
-                </section>
-                <section class="level1" id="wichtigen-perioden-3">
-                <h1>Wichtigen Perioden</h1>
-                <ul>
-                <li>750-1050: Althochdeutsch</li>
-                <li>1050-1350: Mittelhochdeutsch</li>
-                <li>1350-1650: Früneuhochdeutsch</li>
-                </ul>
-                <p><em>Im anfang war das Wort, vnd das wort war bey Gott, vnd Gott war das Wort.</em> - Luther, 1545</p>
-                <ul>
-                <li>1650- : Neuhochdeutsch</li>
-                </ul>
-                <p><em>Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.</em> - jetzt</p>
-                </section>
+                $body$
 			</div>
 
 		</div>
