@@ -30,6 +30,26 @@ Das Niebelungenlied:
 
 *Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.* - jetzt (Neuhochdeutsch)
 
-## Fallbeispiele
+## Über die Umlaut
+
+![](umlaut.png)
+
+## Beispiele
 
 ## *Deutsch*
+
+*Teutons* ("von der Volke", altsächsisch) -> *tiutsch* -> *diutsch* -> *deutsch*
+
+![](deutsch.png)
+
+## *Samstag, Sonnabend*
+
+- *שבת* (hebräisch) -> *sabbaton* (griechisch) -> *sabbatum* (lateinisch) -> *samztac* (althochdeutsch) -> *Samstag*
+
+- *sun-ábent* ("Tag zuvor Sonntag", mittelhochdeutsch) -> Sonnabend
+
+![](samstag.png)
+
+## *zwischen*
+
+*zwëne* (althochdeutsch, "zwei") -> *zwisk* ("ein Paar") -> *in zwiskén* ("zwischen ein Paar") -> *inzwischen* ->  *zwischen*
