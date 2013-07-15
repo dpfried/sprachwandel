@@ -60,4 +60,27 @@ Das Niebelungenlied:
 
 *grifan* -> *gripe* (altenglisch) -> *grip* (englisch)
 
-## 
+![](begreifen.png)
+
+## *Beispiel*
+
+*spël* (mittelhochdeutsch, "Fabel", "Geschichte") -> *bispel* (früneuhochdeutsch, "Fabel", "Sprichwort")  -> *Beispiel*
+
+*spël* -> *spell* (englisch)  -> *gospel*
+
+## *Gift*
+
+*gift* (althochdeutsch, "das Geschenk") -> "etwas geben" -> "ein Getränk geben" -> "Medizin geben" -> "Toxin geben" -> "Toxin"
+
+auf andere Sprachen auch:
+
+पिबति (sanskritisch, "trinken") -> *potion* (lateinisch, "ein Getränk") -> *poison* (französisch, "Toxin")
+
+
+## *Beamer*
+
+ein Neologismus, seit 2013 im Wörterbuch (Duden)
+
+*beam* (englisch) -> *Beamer* ("Videoprojektor")
+
+![](beamer.png)
