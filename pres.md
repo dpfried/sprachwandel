@@ -2,7 +2,7 @@
 
 ### Daniel Fried
 
-## Wichtigen Perioden
+## Wichtigen Zeiträume
 - 750-1050: Althochdeutsch
 - 1050-1350: Mittelhochdeutsch
 - 1350-1650: Früneuhochdeutsch
@@ -46,7 +46,7 @@ Das Niebelungenlied:
 
 - *שבת* (hebräisch) -> *sabbaton* (griechisch) -> *sabbatum* (lateinisch) -> *samztac* (althochdeutsch) -> *Samstag*
 
-- *sun-ábent* ("Tag zuvor Sonntag", mittelhochdeutsch) -> Sonnabend
+- *sun-ábent* ("Tag zuvor Sonntag", mittelhochdeutsch) -> *Sonnabend*
 
 ![](samstag.png)
 
@@ -62,13 +62,13 @@ Das Niebelungenlied:
 
 ![](begreifen.png)
 
-## *Beispiel*
+## *das Beispiel*
 
 *spël* (mittelhochdeutsch, "Fabel", "Geschichte") -> *bispel* (früneuhochdeutsch, "Fabel", "Sprichwort")  -> *Beispiel*
 
 *spël* -> *spell* (englisch)  -> *gospel*
 
-## *Gift*
+## *das Gift*
 
 *gift* (althochdeutsch, "das Geschenk") -> "etwas geben" -> "ein Getränk geben" -> "Medizin geben" -> "Toxin geben" -> "Toxin"
 
@@ -77,10 +77,22 @@ auf andere Sprachen auch:
 पिबति (sanskritisch, "trinken") -> *potion* (lateinisch, "ein Getränk") -> *poison* (französisch, "Toxin")
 
 
-## *Beamer*
+## *der Beamer*
 
 ein Neologismus, seit 2013 im Wörterbuch (Duden)
 
 *beam* (englisch) -> *Beamer* ("Videoprojektor")
 
 ![](beamer.png)
+
+## *der Shitstorm*
+
+auch ein Neologismus aus 2013, im Duden: "die Empörungswelle"
+
+"...man kann einen Shitstorm schneller entfachen..." - Angela Merkel, April 2012
+<div ><img src="shitstorm.png" style="width: 60%" /></div>
+<div ><img src="shitstorm2.png" style="width: 60%" /></div>
+
+## *das Ende*
+
+*ánta-s* (sanskritisch, "Grenze") -> *enti* (althochdeutsch) -> *Ende*
