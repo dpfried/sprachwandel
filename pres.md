@@ -16,6 +16,10 @@ Herrengebet:
 
 *Vater unser im Himmel, geheiligt werde dein Name*, jetzt
 
+![](chuck.jpg)
+
+Karl der Grosse
+
 ## 1050-1350: Mittelhochdeutsch
 
 Das Niebelungenlied:
@@ -24,11 +28,19 @@ Das Niebelungenlied:
 
 *Uns wird in alten Erzählungen viel Wunderbares berichtet* - jetzt
 
+![](sachsenspiegel.jpg)
+
+Sachsenspiegel
+
 ## 1350-1650: Früneuhochdeutsch
 
 *Im anfang war das Wort, vnd das wort war bey Gott, vnd Gott war das Wort.*, Luther, 1545
 
 *Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.* - jetzt (Neuhochdeutsch)
+
+![](press.jpg)
+
+Druckpresse von Gutenberg
 
 ## Über die Umlaut
 
